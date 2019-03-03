@@ -13,5 +13,5 @@
 
 | file name | duration | status |
 | - | - | - |  
-| listening.wav |  | **not added** |
-| listen_end.wav | | **not added** |
+| listening.wav |  | test-sound added -> **final file needed** |
+| listen_end.wav | | test-sound added -> **final file needed** |
